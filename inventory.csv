@@ -1,0 +1,16 @@
+Item,Category,Quantity,Reorder_Level
+Lipstick,Makeup,15,20
+Foundation,Makeup,8,10
+Compact Powder,Makeup,25,15
+Eyeliner,Makeup,30,10
+Mascara,Makeup,5,12
+Blush,Makeup,14,10
+Highlighter,Makeup,6,8
+Face Wash,Skincare,40,20
+Moisturizer,Skincare,18,15
+Sunscreen,Skincare,35,20
+Serum,Skincare,9,12
+Shampoo,Haircare,50,25
+Conditioner,Haircare,22,20
+Nail Polish,Beauty Accessories,12,18
+Perfume,Fragrance,7,10
